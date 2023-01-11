@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @graigJin
 - 👀 I’m interested in JS, Java, C#, web3, ...
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Spring Boot and Angular / NgRx
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me https://twitter.com/Foreador
 
